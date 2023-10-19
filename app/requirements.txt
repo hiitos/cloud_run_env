@@ -1,0 +1,11 @@
+pandas
+streamlit
+langchain
+openai
+chromadb
+tiktoken
+db-dtypes
+psycopg2
+google-api-python-client
+pydantic
+streamlit-authenticator

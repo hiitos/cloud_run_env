@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#ffa500" # オレンジ
+backgroundColor="#222B5D" # rgb(34 47 72)
+secondaryBackgroundColor="#1b2139" # ダークグレー rgb(27 33 57)
+textColor="#FFFFFF" # 白
+font="sans serif"
